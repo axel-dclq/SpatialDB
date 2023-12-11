@@ -4,6 +4,9 @@
 
 This project involves the creation of a spatial drawing, specifically a cityscape, along with the implementation of various spatial database operations. The tasks encompass spatial drawing creation, layer division, metadata insertion, code implementation for drawing shapes, spatial indexing, visualization, spatial queries, and result analysis.
 
+![Visualization](image/Fig1_visualization.png)
+   *Fig. 1: Visualization of the project work.*
+   
 ### Project Tasks
 
 1. **Create Your own Spatial Drawing**
